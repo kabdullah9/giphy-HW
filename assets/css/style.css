@@ -1,0 +1,56 @@
+.animalBTN{
+    background-color: black;
+    color: white;
+    height: 40px;
+    font-weight: bold;
+    border-radius: 5px;
+
+}
+
+.animalBTN:hover{
+    background-color: gold;
+    color: black;
+}
+
+#addAnimal:hover{
+    background-color: white;
+    color: black;
+}
+
+body{
+    background-color: firebrick
+}
+
+#animalSwitch{
+    padding: 20px;
+    width: 100%;
+    margin: 20px auto;
+    clear: both;
+    border: 10px grey solid;
+}
+
+#anmial-form{
+    padding: 10px;
+    float: right;
+    clear: both;
+    border: 10px grey solid;
+    display: block;
+    position: relative;
+}
+
+#animals{
+    padding: 10px;
+    clear: both;
+    border: grey 10px solid;
+    margin-top: 90px;
+    text-align: center
+    
+}
+
+#addAnimal{
+    background-color: slateblue;
+    color: white;
+    height: 40px;
+    font-weight: bold;
+    border-radius: 5px;
+}
