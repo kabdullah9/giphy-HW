@@ -1,4 +1,4 @@
-.animalBTN{
+.creatureBtn{
     background-color: black;
     color: white;
     height: 40px;
@@ -7,7 +7,7 @@
 
 }
 
-.animalBTN:hover{
+.creatureBtn:hover{
     background-color: gold;
     color: black;
 }

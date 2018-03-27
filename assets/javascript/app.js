@@ -6,7 +6,7 @@ $("#addAnimal").click(function () {
         $("#animal-input").focus();
     } else {
 
-        var newbtn = $("<button class='animalBTN'>");
+        var newbtn = $("<button class='creatureBtn'>");
         newbtn.attr("value", btnTxt);
         newbtn.text(btnTxt);
         $("#animalSwitch").append(newbtn);
